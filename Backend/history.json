@@ -1,0 +1,581 @@
+[
+    {
+        "id": "9aa4bc84-e477-4406-b39d-e8790043999b",
+        "timestamp": "2026-08-26T18:37:05.256664",
+        "date": "26/08/2026",
+        "day": "Wednesday",
+        "time": "06:37 PM",
+        "user_query": "what is dengue,how to prevent it",
+        "bot_response": {
+            "disease_name": "Dengue",
+            "description": "A mosquito\u2011borne viral illness common in tropical and subtropical regions.",
+            "causes": [
+                "Infection with dengue virus transmitted by Aedes aegypti and Aedes albopictus mosquitoes"
+            ],
+            "symptoms": [
+                "High fever",
+                "Severe headache",
+                "Joint and muscle pain",
+                "Rash",
+                "Nausea",
+                "Fatigue"
+            ],
+            "prevention": [
+                "Use mosquito repellents",
+                "Wear long sleeves and pants",
+                "Keep windows screened",
+                "Eliminate standing water",
+                "Use bed nets",
+                "Wear protective clothing"
+            ],
+            "home_remedies": [
+                "Stay hydrated with oral rehydration solutions",
+                "Rest",
+                "Use acetaminophen for pain and fever (avoid aspirin and NSAIDs)"
+            ],
+            "medical_treatments": [
+                "Hospitalization for severe cases",
+                "Intravenous fluids",
+                "Blood tests",
+                "Monitoring for warning signs",
+                "Supportive care"
+            ],
+            "when_to_consult_doctor": "If fever lasts more than 3 days, severe abdominal pain, persistent vomiting, bleeding, or breathing difficulty",
+            "emergency_warning_signs": [
+                "Severe abdominal pain",
+                "Persistent vomiting",
+                "Rapid breathing",
+                "Bleeding from gums or nose",
+                "Dizziness",
+                "Fainting",
+                "Bluish lips or nail beds"
+            ],
+            "severity": "Moderate",
+            "emergency": true
+        },
+        "topic": null,
+        "severity": "Moderate"
+    },
+    {
+        "id": "6d0db3b6-bb6f-407f-9384-c053a24fdff9",
+        "timestamp": "2026-08-24T14:06:52.502536",
+        "date": "24/08/2026",
+        "day": "Monday",
+        "time": "02:06 PM",
+        "user_query": "Give one brief hydration tip.",
+        "bot_response": {
+            "reply": "Aim to drink a glass of water whenever you feel slightly thirsty, and keep a reusable bottle handy to remind yourself to stay hydrated."
+        },
+        "topic": null,
+        "severity": null
+    },
+    {
+        "id": "e003adc4-8f8e-4b90-9fb8-1d6eafa348b4",
+        "timestamp": "2026-08-24T13:11:11.793874",
+        "date": "24/08/2026",
+        "day": "Monday",
+        "time": "01:11 PM",
+        "user_query": "what is dengue",
+        "bot_response": {
+            "disease_name": "Dengue Fever",
+            "description": "A mosquito-borne viral illness caused by the dengue virus, transmitted primarily by Aedes aegypti and Aedes albopictus.",
+            "causes": [
+                "Mosquito bite carrying dengue virus"
+            ],
+            "symptoms": [
+                "Sudden high fever",
+                "Severe headache",
+                "Pain behind the eyes",
+                "Joint and muscle pain",
+                "Nausea",
+                "Rash",
+                "Fatigue"
+            ],
+            "prevention": [
+                "Use mosquito repellents",
+                "Wear long sleeves and pants",
+                "Install screens on windows/doors",
+                "Eliminate standing water",
+                "Use mosquito nets"
+            ],
+            "home_remedies": [
+                "Stay hydrated with oral rehydration solutions",
+                "Take acetaminophen (avoid aspirin, ibuprofen) for pain/fever",
+                "Rest",
+                "Apply cool compresses for pain"
+            ],
+            "medical_treatments": [
+                "Hospitalization for severe cases",
+                "Intravenous fluids",
+                "Monitoring for warning signs",
+                "Blood transfusions if indicated"
+            ],
+            "when_to_consult_doctor": "If you develop persistent high fever, severe abdominal pain, persistent vomiting, bleeding, or any signs of shock.",
+            "emergency_warning_signs": [
+                "Sudden severe abdominal pain",
+                "Persistent vomiting",
+                "Bleeding (nose, gums, blood in stool or vomit)",
+                "Rapid breathing or difficulty breathing",
+                "Low blood pressure",
+                "Confusion or agitation"
+            ],
+            "severity": "Serious",
+            "emergency": true
+        },
+        "topic": null,
+        "severity": "Serious"
+    },
+    {
+        "id": "33438f54-d8cf-490e-8c14-cb61d19fe0c9",
+        "timestamp": "2026-08-24T13:11:03.635515",
+        "date": "24/08/2026",
+        "day": "Monday",
+        "time": "01:11 PM",
+        "user_query": "hi",
+        "bot_response": {
+            "reply": "Hello! How can I help you today?"
+        },
+        "topic": null,
+        "severity": null
+    },
+    {
+        "id": "efdaa7e8-5a1c-4072-822c-156a8aa872fd",
+        "timestamp": "2026-08-24T13:10:50.395490",
+        "date": "24/08/2026",
+        "day": "Monday",
+        "time": "01:10 PM",
+        "user_query": "What are common cold symptoms?",
+        "bot_response": {
+            "disease_name": "Common cold",
+            "description": "A viral infection of the upper respiratory tract that typically causes mild, self-limiting symptoms.",
+            "causes": [
+                "Respiratory viruses, most commonly rhinoviruses"
+            ],
+            "symptoms": [
+                "Sore throat",
+                "Runny or stuffy nose",
+                "Cough",
+                "Sneezing",
+                "Mild fatigue",
+                "Mild fever",
+                "Headache",
+                "Mild body aches"
+            ],
+            "prevention": [
+                "Frequent hand washing",
+                "Avoid close contact with sick individuals",
+                "Cover mouth when coughing or sneezing",
+                "Maintain a healthy immune system"
+            ],
+            "home_remedies": [
+                "Warm saline gargle",
+                "Steam inhalation",
+                "Honey lemon tea",
+                "Stay hydrated",
+                "Rest",
+                "Saline nasal spray"
+            ],
+            "medical_treatments": [
+                "Over-the-counter decongestants",
+                "Antihistamines",
+                "Pain relievers such as acetaminophen or ibuprofen"
+            ],
+            "when_to_consult_doctor": "If symptoms worsen after 7-10 days, difficulty breathing, severe pain, persistent fever, or if you are in a high\u2011risk group",
+            "emergency_warning_signs": [
+                "Difficulty breathing or swallowing",
+                "Chest pain",
+                "Confusion",
+                "Persistent high fever >104\u00b0F",
+                "Bluish lips or face"
+            ],
+            "severity": "Mild",
+            "emergency": false
+        },
+        "topic": null,
+        "severity": "Mild"
+    },
+    {
+        "id": "7ebe2760-5012-46a7-98b6-8b676ced1335",
+        "timestamp": "2026-08-12T20:53:02.861447",
+        "date": "12/08/2026",
+        "day": "Wednesday",
+        "time": "08:53 PM",
+        "user_query": "what is dengue",
+        "bot_response": {
+            "disease_name": "Dengue Fever",
+            "description": "A viral infection spread by mosquitoes, causing severe flu-like symptoms.",
+            "causes": [
+                "Infected Aedes mosquito bite"
+            ],
+            "symptoms": [
+                "High fever",
+                "Severe headache",
+                "Pain behind the eyes",
+                "Joint and muscle pain",
+                "Rash"
+            ],
+            "prevention": [
+                "Using mosquito repellents",
+                "Wearing protective clothing",
+                "Eliminating mosquito breeding sites"
+            ],
+            "home_remedies": [
+                "Staying hydrated",
+                "Resting",
+                "Taking pain relievers"
+            ],
+            "medical_treatments": [
+                "Hospitalization for severe cases",
+                "Fluid replacement",
+                "Pain management"
+            ],
+            "when_to_consult_doctor": "If symptoms worsen or last more than 3 days",
+            "emergency_warning_signs": [
+                "Severe abdominal pain",
+                "Vomiting blood",
+                "Bleeding gums"
+            ],
+            "severity": "Serious",
+            "emergency": true
+        },
+        "topic": null,
+        "severity": "Serious"
+    },
+    {
+        "id": "911d1d37-84be-4009-a183-2ca297033650",
+        "timestamp": "2026-08-03T19:23:05.678090",
+        "date": "03/08/2026",
+        "day": "Monday",
+        "time": "07:23 PM",
+        "user_query": "what is dengue",
+        "bot_response": {
+            "disease_name": "Dengue Fever",
+            "description": "A mosquito-borne tropical disease caused by the dengue virus.",
+            "causes": [
+                "Mosquito bites from infected Aedes species"
+            ],
+            "symptoms": [
+                "High fever",
+                "Severe headache",
+                "Pain behind the eyes",
+                "Joint and muscle pain",
+                "Rash"
+            ],
+            "prevention": [
+                "Using insect repellents",
+                "Wearing protective clothing",
+                "Eliminating mosquito breeding sites"
+            ],
+            "home_remedies": [
+                "Resting",
+                "Staying hydrated",
+                "Taking pain relievers"
+            ],
+            "medical_treatments": [
+                "Fluid replacement",
+                "Pain management",
+                "Hospitalization in severe cases"
+            ],
+            "when_to_consult_doctor": "If symptoms worsen or if you experience severe headache, vomiting, or bleeding",
+            "emergency_warning_signs": [
+                "Severe abdominal pain",
+                "Vomiting blood",
+                "Bleeding gums"
+            ],
+            "severity": "Moderate",
+            "emergency": false
+        },
+        "topic": null,
+        "severity": "Moderate"
+    },
+    {
+        "id": "82b2c6aa-2eff-40d0-93e0-55295cc17cdb",
+        "timestamp": "2026-08-03T19:19:26.671986",
+        "date": "03/08/2026",
+        "day": "Monday",
+        "time": "07:19 PM",
+        "user_query": "what is dengue",
+        "bot_response": {
+            "disease_name": "Dengue Fever",
+            "description": "A mosquito-borne viral illness",
+            "causes": [
+                "Infected Aedes mosquito bite"
+            ],
+            "symptoms": [
+                "High fever",
+                "Severe headache",
+                "Pain behind the eyes",
+                "Joint and muscle pain",
+                "Rash"
+            ],
+            "prevention": [
+                "Wearing protective clothing",
+                "Using insect repellent",
+                "Eliminating mosquito breeding sites"
+            ],
+            "home_remedies": [
+                "Rest",
+                "Staying hydrated",
+                "Pain relief medication"
+            ],
+            "medical_treatments": [
+                "Hospitalization for severe cases",
+                "Fluid replacement",
+                "Pain management"
+            ],
+            "when_to_consult_doctor": "If symptoms persist or worsen",
+            "emergency_warning_signs": [
+                "Severe abdominal pain",
+                "Vomiting blood",
+                "Bleeding gums"
+            ],
+            "severity": "Serious",
+            "emergency": true
+        },
+        "topic": null,
+        "severity": "Serious"
+    },
+    {
+        "id": "c39b9b80-436d-4467-a07a-e2d72d5d9a0e",
+        "timestamp": "2026-08-03T19:19:17.463898",
+        "date": "03/08/2026",
+        "day": "Monday",
+        "time": "07:19 PM",
+        "user_query": "hi",
+        "bot_response": {
+            "reply": "Hello, how can I assist you today?"
+        },
+        "topic": null,
+        "severity": null
+    },
+    {
+        "id": "535b817f-9d4c-4585-9c10-f8e719888bf7",
+        "timestamp": "2026-07-29T13:17:06.264761",
+        "date": "29/07/2026",
+        "day": "Wednesday",
+        "time": "01:17 PM",
+        "user_query": "I have headache and fever",
+        "bot_response": {
+            "reply": "Backend GROQ_API_KEY is not configured. Add GROQ_API_KEY to Backend/.env and restart the backend."
+        },
+        "topic": null,
+        "severity": null
+    },
+    {
+        "id": "63687234-3ff5-4c72-a675-2d7cfa3fe3d2",
+        "timestamp": "2026-07-24T00:10:34.780594",
+        "date": "24/07/2026",
+        "day": "Friday",
+        "time": "12:10 AM",
+        "user_query": "hi",
+        "bot_response": {
+            "reply": "Backend GROQ_API_KEY is not configured. Add GROQ_API_KEY to Backend/.env and restart the backend."
+        },
+        "topic": null,
+        "severity": null
+    },
+    {
+        "id": "f0fc9267-def5-4307-837b-1a0b2d5ec2b2",
+        "timestamp": "2026-07-24T00:03:56.974825",
+        "date": "24/07/2026",
+        "day": "Friday",
+        "time": "12:03 AM",
+        "user_query": "hi ",
+        "bot_response": {
+            "reply": "Backend GROQ_API_KEY is not configured. Add GROQ_API_KEY to Backend/.env and restart the backend."
+        },
+        "topic": null,
+        "severity": null
+    },
+    {
+        "id": "8fefb62a-e6ac-4c1d-8910-353e42fa9cfe",
+        "timestamp": "2026-07-23T23:59:34.141951",
+        "date": "23/07/2026",
+        "day": "Thursday",
+        "time": "11:59 PM",
+        "user_query": "I have fever and cough",
+        "bot_response": {
+            "reply": "Backend GROQ_API_KEY is not configured. Add GROQ_API_KEY to Backend/.env and restart the backend."
+        },
+        "topic": null,
+        "severity": null
+    },
+    {
+        "id": "e2bcd339-174a-4c01-ab13-82bcaf8d584a",
+        "timestamp": "2026-07-23T23:59:34.122472",
+        "date": "23/07/2026",
+        "day": "Thursday",
+        "time": "11:59 PM",
+        "user_query": "I have fever and cough",
+        "bot_response": {
+            "reply": "Backend GROQ_API_KEY is not configured. Add GROQ_API_KEY to Backend/.env and restart the backend."
+        },
+        "topic": null,
+        "severity": null
+    },
+    {
+        "id": "c088c794-2043-4f34-86ab-51d6120e29d0",
+        "timestamp": "2026-06-15T13:42:37.151176",
+        "date": "15/06/2026",
+        "day": "Monday",
+        "time": "01:42 PM",
+        "user_query": "how to cure dengue",
+        "bot_response": {
+            "topic": "Dengue Fever",
+            "definition": "Dengue fever is a mosquito-borne viral illness that is characterized by severe flu-like symptoms. It is caused by the dengue virus, which is transmitted by the bite of an infected Aedes mosquito. (Disclaimer: This is not a substitute for professional medical advice. Always consult a doctor.)",
+            "symptoms": [
+                "High fever",
+                "Severe headache",
+                "Pain behind the eyes",
+                "Joint and muscle pain",
+                "Rash",
+                "Nausea and vomiting"
+            ],
+            "prevention": [
+                "Wear protective clothing",
+                "Use insect repellents",
+                "Eliminate standing water around homes",
+                "Use screens on windows and doors"
+            ],
+            "treatment": "There is no specific medication for dengue fever, but treatment typically involves managing symptoms, such as taking pain relievers like acetaminophen, staying hydrated, and resting.",
+            "severity": "Moderate",
+            "emergency": false
+        },
+        "topic": "Dengue Fever",
+        "severity": "Moderate"
+    },
+    {
+        "id": "3cd0ebc6-2272-4d05-afd6-0420c20a321f",
+        "timestamp": "2026-06-15T13:30:09.354497",
+        "date": "15/06/2026",
+        "day": "Monday",
+        "time": "01:30 PM",
+        "user_query": "what is dengue",
+        "bot_response": {
+            "topic": "Dengue Fever",
+            "definition": "Dengue fever is a mosquito-borne viral infection that affects millions of people worldwide every year. It is characterized by severe flu-like symptoms and can be life-threatening in severe cases. (Disclaimer: This is not a substitute for professional medical advice. Always consult a doctor.)",
+            "symptoms": [
+                "High fever",
+                "Severe headache",
+                "Pain behind the eyes",
+                "Joint and muscle pain",
+                "Rash",
+                "Nausea and vomiting"
+            ],
+            "prevention": [
+                "Use mosquito repellents",
+                "Wear protective clothing",
+                "Eliminate standing water around homes",
+                "Use mosquito nets",
+                "Get vaccinated if available"
+            ],
+            "treatment": "Treatment usually involves rest, hydration, and pain management. In severe cases, hospitalization may be required to manage complications.",
+            "severity": "Moderate",
+            "emergency": false
+        },
+        "topic": "Dengue Fever",
+        "severity": "Moderate"
+    },
+    {
+        "id": "efc9388b-2b13-4cc0-a239-e9ddcdd148a3",
+        "timestamp": "2026-06-15T13:29:24.112594",
+        "date": "15/06/2026",
+        "day": "Monday",
+        "time": "01:29 PM",
+        "user_query": "what is hepatitis",
+        "bot_response": {
+            "topic": "Hepatitis",
+            "definition": "Hepatitis is an inflammation of the liver, typically caused by viral infections, although other factors such as toxins, medications, and autoimmune diseases can also cause it. The most common types of viral hepatitis are hepatitis A, hepatitis B, and hepatitis C. (Disclaimer: This is not a substitute for professional medical advice. Always consult a doctor.)",
+            "symptoms": [
+                "Fatigue",
+                "Loss of appetite",
+                "Nausea and vomiting",
+                "Abdominal pain",
+                "Dark urine and pale stools",
+                "Yellowing of the skin and eyes (jaundice)"
+            ],
+            "prevention": [
+                "Getting vaccinated against hepatitis A and B",
+                "Practicing safe sex",
+                "Avoiding sharing needles or personal care items",
+                "Avoiding close contact with people who have hepatitis",
+                "Washing hands frequently"
+            ],
+            "treatment": "Treatment depends on the type of hepatitis. For acute hepatitis, rest, hydration, and a healthy diet may be recommended. For chronic hepatitis, antiviral medications may be prescribed.",
+            "severity": "Moderate",
+            "emergency": false
+        },
+        "topic": "Hepatitis",
+        "severity": "Moderate"
+    },
+    {
+        "id": "14a7ee21-2272-466d-a8d6-4c0f80e336dc",
+        "timestamp": "2026-03-18T16:24:41.807940",
+        "user_query": "what is hepatitis",
+        "bot_response": {
+            "topic": "Hepatitis",
+            "definition": "Hepatitis is an inflammatory condition of the liver, often caused by viral infections, although other factors like toxins, medications, and alcohol can also lead to this condition. It can cause a range of health problems, from mild illness to severe liver damage. (Disclaimer: This is not a substitute for professional medical advice. Always consult a doctor.)",
+            "symptoms": [
+                "Yellowing of the skin and eyes (jaundice)",
+                "Fatigue",
+                "Loss of appetite",
+                "Nausea and vomiting",
+                "Abdominal pain",
+                "Dark urine and pale stools"
+            ],
+            "prevention": [
+                "Getting vaccinated against hepatitis A and B",
+                "Practicing safe sex",
+                "Avoiding sharing needles or personal care items",
+                "Washing hands frequently",
+                "Avoiding contact with contaminated food and water"
+            ],
+            "treatment": "The treatment for hepatitis depends on the cause and severity of the condition. In cases of viral hepatitis, antiviral medications may be prescribed. For hepatitis caused by other factors, the focus is on treating the underlying cause and managing symptoms.",
+            "severity": "Moderate",
+            "emergency": false
+        },
+        "topic": "Hepatitis",
+        "severity": "Moderate",
+        "date": "18/03/2026",
+        "day": "Wednesday",
+        "time": "04:24 PM"
+    },
+    {
+        "id": "1",
+        "timestamp": "2026-03-18T10:00:00",
+        "user_query": "What are the symptoms of flu?",
+        "bot_response": {
+            "topic": "Flu",
+            "definition": "A common viral infection that can be deadly, especially in high-risk groups. (Disclaimer: This is not a substitute for professional medical advice. Always consult a doctor.)",
+            "symptoms": "1. Fever\n2. Cough\n3. Sore throat\n4. Runny or stuffy nose",
+            "prevention": "Get a flu vaccine every year.",
+            "treatment": "Rest, fluids, and over-the-counter pain relievers.",
+            "severity": "Moderate",
+            "emergency": false
+        },
+        "topic": "Flu",
+        "severity": "Moderate",
+        "date": "18/03/2026",
+        "day": "Wednesday",
+        "time": "10:00 AM"
+    },
+    {
+        "id": "2",
+        "timestamp": "2026-03-18T11:00:00",
+        "user_query": "I have chest pain and shortness of breath.",
+        "bot_response": {
+            "topic": "Heart Attack",
+            "definition": "A serious medical emergency where the supply of blood to the heart is suddenly blocked. (Disclaimer: This is not a substitute for professional medical advice. Always consult a doctor.)",
+            "symptoms": "1. Chest pain\n2. Shortness of breath\n3. Nausea\n4. Lightheadedness",
+            "prevention": "Maintain a healthy diet and exercise regularly.",
+            "treatment": "Call emergency services immediately.",
+            "severity": "Severe",
+            "emergency": true
+        },
+        "topic": "Heart Attack",
+        "severity": "Severe",
+        "date": "18/03/2026",
+        "day": "Wednesday",
+        "time": "11:00 AM"
+    }
+]
