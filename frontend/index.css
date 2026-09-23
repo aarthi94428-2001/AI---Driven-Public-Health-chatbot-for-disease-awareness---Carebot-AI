@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Scrollbar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #2D3748; /* Darker track for theme */
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #4A5568; /* Medium gray thumb */
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #718096; /* Lighter gray on hover */
+}
+
+/* Chat Message Styling */
+.user-message {
+  background-color: #3B82F6; /* Blue for user */
+  color: #fff;
+  align-self: flex-end; /* Align to right */
+}
+
+.bot-message {
+  background-color: #4A5568; /* Dark gray for bot */
+  color: #fff;
+  align-self: flex-start; /* Align to left */
+}
+
+/* Healthcare Theme Colors (adjust as needed for your design) */
+.healthcare-theme {
+  --color-care-navy: #0F172A;
+  --color-care-blue: #3B82F6;
+  --color-care-purple: #8B5CF6;
+  --color-care-gray: #CBD5E0;
+}
+
+.bg-care-navy { background-color: var(--color-care-navy); }
+.bg-care-blue { background-color: var(--color-care-blue); }
+.bg-care-purple { background-color: var(--color-care-purple); }
+.text-care-gray { color: var(--color-care-gray); }
+
+.shadow-soft-blue { box-shadow: 0 0 20px rgba(59, 130, 246, 0.5); }
